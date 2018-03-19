@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie library</string>
+    <string name="deleteAll">Delete all</string>
+    <string name="exit">Exit</string>
+    <string name="addMovieByManual">Add Movie Manual"</string>
+    <string name="addMovieByInternet">Add Movie By Internet"</string>
+    <string name="title">Movie Title</string>
+    <string name="description">Movie Description</string>
+    <string name="url">Image URL</string>
+    <string name="show">Show</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="internet">Internet</string>
+    <string name="manual">Manual</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="choose">Choose what action you want</string>
+    <string name="search">Search movie</string>
+    <string name="toast">You must enter a title</string>
+
+</resources>

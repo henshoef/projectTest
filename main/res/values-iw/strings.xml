@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ספריית סרטים אישית</string>
+    <string name="deleteAll">מחק הכל</string>
+    <string name="exit">יציאה</string>
+    <string name="addMovieByManual">הוסף סרט ידנית</string>
+    <string name="addMovieByInternet">הוסף סרט מהאינטרנט"</string>
+    <string name="title">כותרת הסרט</string>
+    <string name="description">פירוט הסרט</string>
+    <string name="url">קישור לתמונה</string>
+    <string name="show">הצג</string>
+    <string name="ok">אוקיי</string>
+    <string name="cancel">ביטול</string>
+    <string name="internet">אינטרנט</string>
+    <string name="manual">ידני</string>
+    <string name="edit">ערוך</string>
+    <string name="delete">מחק</string>
+    <string name="choose">מה תרצה לעשות?</string>
+    <string name="search">חיפוש סרט</string>
+    <string name="toast">חובה להכניס שם את הסרט</string>
+
+</resources>
